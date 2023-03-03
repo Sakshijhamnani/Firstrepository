@@ -1,2 +1,3 @@
 
-This is my third day of practising
+This is my third day of practising git
+
